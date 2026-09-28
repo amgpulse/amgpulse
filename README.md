@@ -58,22 +58,25 @@ const amgpulse = {
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amgpulse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgpulse&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=amgpulse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amgpulse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amgpulse&theme=tokyonight&layout=compact&hide_border=true)
 
 </div>
 
-### 📈 Contribution Activity
+---
 
-[![amgpulse's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amgpulse&theme=tokyo-night&hide_border=true&area=true)](https://github.com/amgpulse)
+## 🔥 GitHub Streak
+
+<div align="center">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=amgpulse&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -111,16 +114,6 @@ const amgpulse = {
 - 📚 Share knowledge with the community
 - 🤝 Collaborate on open-source projects
 - 🎓 Continuous learning & growth
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amgpulse/amgpulse/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amgpulse/amgpulse/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/amgpulse/amgpulse/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
