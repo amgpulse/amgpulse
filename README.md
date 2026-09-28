@@ -29,52 +29,45 @@ const amgpulse = {
   <tr>
     <td align="center">
       <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go" />
+      <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go" alt="Languages" />
     </td>
     <td align="center">
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" alt="Frontend" />
     </td>
     <td align="center">
       <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" alt="Backend" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>Database</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Database" />
     </td>
     <td align="center">
       <h3>DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux" alt="DevOps" />
     </td>
     <td align="center">
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,github,postman" />
+      <img src="https://skillicons.dev/icons?i=vscode,figma,github,postman" alt="Tools" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistics
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amgpulse&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amgpulse&theme=tokyonight&layout=compact&hide_border=true)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=amgpulse&theme=tokyonight&hide_border=true)
+| Metric | Value |
+|--------|-------|
+| 💻 Total Contributions | [View on GitHub](https://github.com/amgpulse?tab=repositories) |
+| 🔥 Current Streak | [Check Profile](https://github.com/amgpulse) |
+| 📚 Public Repositories | [Explore](https://github.com/amgpulse?tab=repositories) |
+| ⭐ Total Stars | [See All](https://github.com/amgpulse) |
 
 </div>
 
@@ -82,15 +75,12 @@ const amgpulse = {
 
 ## 🎨 Featured Projects
 
-> Coming soon! Check back for exciting projects...
+> 🚀 Check out my repositories on [GitHub](https://github.com/amgpulse?tab=repositories)
 
-```
-┌─────────────────────────────────────┐
-│  🚀 Project 1: [Project Name]       │
-│  📝 Description & Technologies      │
-│  🔗 [Repository Link]               │
-└─────────────────────────────────────┘
-```
+Some of my work includes:
+- **Web Applications** - Full-stack projects with modern technologies
+- **Open Source** - Contributing to community projects
+- **Utilities** - Helpful tools and libraries
 
 ---
 
@@ -101,7 +91,7 @@ const amgpulse = {
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amgpulse)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amgpulse)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.com)
   
 </div>
 
@@ -114,6 +104,16 @@ const amgpulse = {
 - 📚 Share knowledge with the community
 - 🤝 Collaborate on open-source projects
 - 🎓 Continuous learning & growth
+
+---
+
+## 📈 Activity
+
+### Recent Work
+- Developing full-stack applications
+- Contributing to open-source projects
+- Building tools for the developer community
+- Learning new technologies and best practices
 
 ---
 
