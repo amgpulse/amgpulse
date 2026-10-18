@@ -36,14 +36,15 @@ const amgpulse = {
 
 ### Cybersecurity
 
-<img src="https://skillicons.dev/icons?i=bash,kali" alt="Bash and Kali Linux" />
-
-<p>
-  <img src="https://cdn.simpleicons.org/wireshark" width="48" height="48" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/burpsuite" width="48" height="48" alt="Burp Suite" />
-  <img src="https://cdn.simpleicons.org/metasploit" width="48" height="48" alt="Metasploit" />
-  <img src="https://cdn.simpleicons.org/owasp" width="48" height="48" alt="OWASP" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=bash,kali" alt="Bash and Kali Linux" /></td>
+    <td><img src="https://cdn.simpleicons.org/wireshark" width="48" height="48" alt="Wireshark" /></td>
+    <td><img src="https://cdn.simpleicons.org/burpsuite" width="48" height="48" alt="Burp Suite" /></td>
+    <td><img src="https://cdn.simpleicons.org/metasploit" width="48" height="48" alt="Metasploit" /></td>
+    <td><img src="https://cdn.simpleicons.org/owasp" width="48" height="48" alt="OWASP" /></td>
+  </tr>
+</table>
 
 Interested in network and web application security, traffic analysis, and authorized security testing with tools such as Nmap.
 
