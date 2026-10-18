@@ -7,6 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Engineering-0D9488?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Building%20Thoughtful%20Products-7C3AED?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-EA580C?style=for-the-badge" alt="Exploring cybersecurity" />
+  <img src="https://img.shields.io/badge/Mindset-Curious%20%26%20Always%20Learning-2563EB?style=for-the-badge" alt="Curious and always learning" />
 </p>
 
 ## About me
