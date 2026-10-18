@@ -34,6 +34,10 @@ const amgpulse = {
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,go" alt="Backend technologies" />
 
+### Cybersecurity
+
+<img src="https://skillicons.dev/icons?i=bash,kali" alt="Bash and Kali Linux" />
+
 ### Data & tools
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,git,github,vscode,postman" alt="Data and tools" />
