@@ -38,6 +38,15 @@ const amgpulse = {
 
 <img src="https://skillicons.dev/icons?i=bash,kali" alt="Bash and Kali Linux" />
 
+<p>
+  <img src="https://cdn.simpleicons.org/wireshark" width="48" height="48" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/burpsuite" width="48" height="48" alt="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/metasploit" width="48" height="48" alt="Metasploit" />
+  <img src="https://cdn.simpleicons.org/owasp" width="48" height="48" alt="OWASP" />
+</p>
+
+Interested in network and web application security, traffic analysis, and authorized security testing with tools such as Nmap.
+
 ### Data & tools
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,git,github,vscode,postman" alt="Data and tools" />
