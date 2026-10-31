@@ -61,7 +61,7 @@ Interested in network and web application security, traffic analysis, and author
 - Improving developer experience and automation
 - Learning new patterns, tools, and architecture ideas
 
-## GitHub stats
+
 
 
 
