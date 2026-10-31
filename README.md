@@ -65,8 +65,7 @@ Interested in network and web application security, traffic analysis, and author
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amgpulse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amgpulse&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="180" />
-</p>
+
 
 ## Let's connect
 
